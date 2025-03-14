@@ -13,9 +13,9 @@ public class TesteCliente {
         Cliente objCliente = new Cliente();
 
         //  entradas
-        objCliente.setIdade(1965);
-        objCliente.setNome("Marco Antonio de Souza Campos");
-        objCliente.setEmail("quitomvl04@gmail.com");
+        objCliente.setIdade(18);
+        objCliente.setNome("Leonardo Saavedra");
+        objCliente.setEmail("leonardosscampos@gmail.com");
         objCliente.setAltura(1.70);
 
         // saidas
